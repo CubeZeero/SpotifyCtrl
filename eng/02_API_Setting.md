@@ -1,4 +1,4 @@
-## APIキー取得
+## API key acquisition
 
 First of all, go to [Spotify For Developers](https://developer.spotify.com/dashboard/login) and log in via **Login**.
 
