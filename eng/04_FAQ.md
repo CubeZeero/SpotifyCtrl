@@ -18,7 +18,7 @@ The URI should be set in a predetermined format.
 
 For example, if you want to set the port number to `50000`, save the file in the following format.
 
-    $http://localhost:50000/callback
+    http://localhost:50000/callback
     
 <br>
 
