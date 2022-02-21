@@ -1,6 +1,6 @@
 ## APIキー取得
 
-まず初めに[Spotify For Developers](https://developer.spotify.com/dashboard/login)へアクセスし **Login** からログインしてください。
+First of all, go to [Spotify For Developers](https://developer.spotify.com/dashboard/login) and log in via **Login**.
 
 <img height="360px" width="640px" src="../img/02_api/01.jpg">
 
