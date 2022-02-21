@@ -13,7 +13,7 @@ From left to right: mute, volume down, shuffle, previous song, play/stop, next s
 The volume slider is located below the buttons.
 
 
-### 楽曲情報表示
+### Song information
 
 <p align="center">
   <img src="../img/03_plugin/06.jpg">
@@ -23,7 +23,7 @@ You can display information about the currently playing song.
 
 Songs in local files cannot be displayed.
 
-### メニュー
+### Menu
 
 <p align="center">
   <img src="../img/03_plugin/04.jpg">
