@@ -24,6 +24,16 @@
     
 <img height="360px" width="640px" src="../img/02_api/05.jpg">
 
-追加したら下までスクロールし **SAVE** 設定を保存します。
+追加したら下までスクロールし **SAVE** で設定を保存します。
 
 <img height="360px" width="640px" src="../img/02_api/06.jpg">
+
+次にページ左上にある **Client ID** と **Client Secret** をプラグインに追加します。
+
+それぞれプラグイン側に入力してください。
+
+<img height="360px" width="640px" src="../img/03_plugin/01.jpg">
+
+<img src="../img/03_plugin/02.jpg">
+
+プラグイン側のOKボタンをクリックするとブラウザで認証画面が表示されるので、承認して設定完了です。
