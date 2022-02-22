@@ -1,3 +1,5 @@
-<p align="center">
-  <img height="270px" width="480px" src="../img/logo_spotifyctrl.png">
-</p>
+### 注意事項
+
+このプラグインはSpotifyの有料会員(Spotify Free以外)の方のみご利用いただけます。
+
+無料プランの方はご利用いただけませんのでご了承ください。
