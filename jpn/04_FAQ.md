@@ -18,7 +18,7 @@ URIは決められた形式で設定してください。
 
 例えばポート番号を`50000`に設定する場合以下のような形式で保存してください。
 
-    $http://localhost:50000/callback
+    http://localhost:50000/callback
     
 <br>
 

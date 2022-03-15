@@ -10,7 +10,7 @@
 
 **CREATE AN APP** ダイアログが開かれるので **App name** と **App description** を設定します。
 
-この設定はお好みの設定で大丈夫です。
+この設定はお好みの設定で構いません。
 
 <img height="360px" width="640px" src="../img/02_api/03.jpg">
 
