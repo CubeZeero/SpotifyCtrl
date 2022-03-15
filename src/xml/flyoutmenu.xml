@@ -1,0 +1,8 @@
+<Menu>
+  <MenuItem Id="id_use_slider" Label="Use volume slider" Enabled="true" Checked="false"/>
+  <MenuItem Id="id_status_sync" Label="Sync status" Enabled="true" Checked="false"/>
+  <MenuItem Id="id_api_reset" Label="API Reset" Enabled="true" Checked="false"/>
+  <MenuItem Label="---" />
+  <MenuItem Id="id_open_preference" Label="Preference" Enabled="true" Checked="false"/>
+  <MenuItem Id="id_open_about" Label="About" Enabled="true" Checked="false"/>
+</Menu>

@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+        
+<link rel="stylesheet" href="css/topcoat-desktop-dark.min.css"/>
+<link  id="hostStyle" rel="stylesheet" href="css/styles.css"/>
+
+<title></title>
+</head>
+
+<body class="hostElt">
+
+    <div class="contents api_form">
+
+        <img src="img/logo/logo_spotifyctrl.png" width="320" height="180">
+
+        <font size="2.5">Enter your Client ID and Client Secret</font><br><br>
+
+        <input class="input_form" id="input_client_id" type="text" size="40" name="Client_ID" placeholder="Client ID"><br><br>
+        <input class="input_form" id="input_client_secret" type="text" size="40" name="Client_Secret" placeholder="Client Secret"><br>
+        <!--<input class="input_form" id="input_redirect_uri" type="text" size="40" name="Redirect_URI" placeholder="Redirect URI"><br><br>-->
+        <font size="2"><u id="howtouse_button">How to use</u></font><br><br>
+        <button class="normal_button" id="api_form_button" type="button">OK</button>
+
+    </div>
+
+    <div class="contents btn_content">
+        
+        <div>
+            <button class="ctrl_button_c" id="btn_mute"><img id="btn_mute_img" src="img/btn_icon/icon_mute_off.png"></button> 
+            <button class="ctrl_button_gs" id="btn_vlmm"><img id="btn_vlmm_img" src="img/btn_icon/icon_vlmm.png"></button> 
+            <button class="ctrl_button_c" id="btn_shuffle"><img id="btn_shuffle_img" src="img/btn_icon/icon_shuffle_off.png"></button> 
+            <button class="ctrl_button_gs" id="btn_prev"><img id="btn_prev_img" src="img/btn_icon/icon_prev.png"></button> 
+            <button class="ctrl_button_gs" id="btn_playpause"><img id="btn_playpause_img" src="img/btn_icon/icon_pause.png"></button>
+            <button class="ctrl_button_gs" id="btn_next"><img id="btn_next_img" src="img/btn_icon/icon_next.png"></button>
+            <button class="ctrl_button_c" id="btn_repeat"><img id="btn_repeat_img" src="img/btn_icon/icon_repeat_off.png"></button>
+            <button class="ctrl_button_gs" id="btn_vlmp"><img id="btn_vlmp_img" src="img/btn_icon/icon_vlmp.png"></button>
+            <button class="ctrl_button_gs" id="btn_track_info"><img id="btn_track_info_img" src="img/btn_icon/icon_track_info.png"></button><br>
+
+            <div class="contents ctrl_slider_volume_div">
+                <input type="range" id="ctrl_slider_volume" min="0" max="100" step="1">
+            </div>
+            
+        </div>   
+        
+    </div>
+    
+    <script src="js/libs/CSInterface.js"></script>
+    <script src="js/libs/jquery-2.0.2.min.js"></script>
+
+    <script src="js/themeManager.js"></script>
+    <script src="js/main.js"></script>
+
+        
+</body>
+</html>
